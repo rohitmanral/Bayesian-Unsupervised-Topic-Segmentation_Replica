@@ -1,0 +1,30 @@
+1) A comment noting how many segmentation markers there are for your two specific sample data files.
+
+For each of the two sample data files(input_1.txt & input_2.txt) I have created 4 segmentation markers which means I have 4 different text segmentations in each of these two .txt files.
+Number of segmentation markers = 5
+Number of text segments = 4
+
+
+2) A comment noting where the source documents come from. (This could just be two URLs.)
+
+I did WebScraping to obtain the two sample data files(input_1.txt & input_2.txt). The data files are mentioned below with their respective URLs:
+   i)  input_1.txt : http://www2.nau.edu/lrm22/lessons/human_senses/human_senses.html  
+   ii) input_2.txt : http://www2.nau.edu/lrm22/lessons/nuts_and_bolts/nuts_and_bolts.html     
+
+3) A comment giving the results of processing the composite document  (i.e. the scores produced by the program) under the configuration dp.config.
+
+After processing the composite.txt file, I got 
+0.3445  0.3445
+0.3445  0.3445
+
+
+
+4) A brief note about whether the scores are what might be expected.  
+
+Yes, these scores are pretty fine. A score close to 0 is more accurate and represents good text segment detection results. So, I got 0.3445 which is pretty fine as my data file i.e. "composite.txt" was a mixture of two initial input files i.e. "input_1.txt" & "input_2.txt".   
+
+
+
+
+
+
