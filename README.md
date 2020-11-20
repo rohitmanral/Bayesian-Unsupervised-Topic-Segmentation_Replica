@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/rohitmanral/Bayesian-Unsupervised-Topic-Segmentation_Replica/blob/main/Output%20AWS.png">
+  <img width="800" height="400" src="https://github.com/rohitmanral/Bayesian-Unsupervised-Topic-Segmentation_Replica/blob/main/Output%20AWS.png">
 </p>
 
 
