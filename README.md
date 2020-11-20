@@ -25,16 +25,16 @@ You should run the text segmentation code on the composite document in a VM.
 
 ## Resulting Documents
 i) The two input data documents, as two .txt files.
+
 ii) The composite output document, as a single file composite.txt. 
+
 iii) The script mixFiles.ipynb, mixFiles.py or mixFiles.sh (depending on whether it's a Python Notebook, Python script or bash script, respectively). 
+
 iv) A text file comments.txt which includes the following:
 
 * A comment noting how many segmentation markers there are for your two specific sample data files.
-
 * A comment noting where the source documents come from. (This could just be two URLs.)
-
 * A comment giving the results of processing the composite document  (i.e. the scores produced by the program) under the configuration dp.config.
-
 * A brief note about whether the scores are what might be expected.  
 
 v) A screenshot of the output of the text segmentation program inside your VM. Once you run your script on the VM, run the following command; the screenshot should contain both the output of the file processing and the output of the command below:
